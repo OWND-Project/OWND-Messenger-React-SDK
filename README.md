@@ -15,16 +15,16 @@ We will develop a white-label digital identity wallet that complies with interna
 ## Project List
 
 ### Digital Identity Wallet
-- [OWND Wallet Android]()
-- [OWND Wallet iOS]()
+- [OWND Wallet Android](https://github.com/OWND-Project/OWND-Wallet-Android)
+- [OWND Wallet iOS](https://github.com/OWND-Project/OWND-Wallet-iOS)
 
 ### Issuance of Verifiable Credentials
-- [OWND Project VCI]()
+- [OWND Project VCI](https://github.com/OWND-Project/OWND-Project-VCI)
 
 ### Messaging Services
-- [OWND Messenger Server]()
-- [OWND Messenger Client]()
-- [OWND Messenger React SDK]()
+- [OWND Messenger Server](https://github.com/OWND-Project/OWND-Messenger-Server)
+- [OWND Messenger Client](https://github.com/OWND-Project/OWND-Messenger-Client)
+- [OWND Messenger React SDK](https://github.com/OWND-Project/OWND-Messenger-React-SDK)
   - It is a product of this repository.
 
 
